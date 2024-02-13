@@ -9,6 +9,9 @@ public class HelloWorld {
     String name = scanner.nextLine();
     System.out.println(name + " is a nice name!");
     System.out.println("Hello, World!");
+    System.out.println(name + " is a nice name................!");
+    System.out.println("_______________________________________");
+
 
   }
 }
